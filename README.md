@@ -1,4 +1,4 @@
-# CherryProxy-Review
+# CherryProxy-Review: Affordable and Reliable Residential Proxy Service
 
 CherryProxy is a premium residential proxy service designed to help users maintain online anonymity, access geo-restricted content, and efficiently collect data. 
 
